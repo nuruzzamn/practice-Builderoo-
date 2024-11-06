@@ -1,0 +1,11 @@
+{
+  "$schema": "https://builderoo.dev/schema/page.json",
+  "layout": {
+    "component": "DefaultLayout"
+  },
+  "sections": [
+    {
+      "component": "SingUp"
+    }
+  ]
+}

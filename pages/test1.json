@@ -1,0 +1,43 @@
+{
+  "$schema": "https://builderoo.dev/schema/page.json",
+  "layout": {
+    "component": "DefaultLayout"
+  },
+  "sections": [
+    {
+      "component": "Test1",
+      "blocks": [
+        {
+          "name": "news-item",
+          "props": {
+            "id": "1",
+            "title": "New Tech Advances in AI",
+            "description": "AI is transforming industries with groundbreaking advances...",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-M_r7bEyuBQzUODeKwobumjZ2bnoB_uelw&s",
+            "publishedAt": "2024-10-10"
+          }
+        },
+        {
+          "name": "news-item",
+          "props": {
+            "id": "2",
+            "title": "Climate Change and its Global Impact",
+            "description": "An in-depth look at the effects of climate change...",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnLBjP8quVFp-N5Z4g-LleXwbo2yB-jm1Xeg&s",
+            "publishedAt": "2024-10-12"
+          }
+        },
+        {
+          "name": "news-item",
+          "props": {
+            "id": "3",
+            "title": "Exploring Space: New Discoveries in 2024",
+            "description": "Space exploration continues to yield new insights...",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFfoC_8sNxVOpgxKnvwhaM-WsZ6s6g_hDPiQ&s",
+            "publishedAt": "2024-10-08"
+          }
+        }
+      ]
+    }
+  ]
+}

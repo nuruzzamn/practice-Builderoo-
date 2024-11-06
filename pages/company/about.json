@@ -1,0 +1,14 @@
+{
+  "$schema": "https://builderoo.dev/schema/page.json",
+  "layout": {
+    "component": "MainLayout"
+  },
+  "sections": [
+    {
+      "component": "Welcome",
+      "props": {
+        "collection": "data:collections:0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://builderoo.dev/schema/page.json",
+  "layout": {
+    "component": "DefaultLayout"
+  },
+  "sections": [
+    {
+      "component": "Test",
+      "props": {
+        "image": "https://img.freepik.com/free-vector/shop-with-sign-open-design_23-2148544029.jpg?size=338&ext=jpg&ga=GA1.1.1023967583.1729468800&semt=ais_hybrid",
+        "heading": "Summer Collection",
+        "subtitle": "20% discount",
+        "description": "Choose your outfit from the summer collection",
+        "link": "/collection/summer-collection",
+        "linkText": "Browse Now"
+      }
+    }
+  ]
+}

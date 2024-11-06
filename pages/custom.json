@@ -1,0 +1,14 @@
+{
+  "layout": {
+    "component": "DefaultLayout"
+  },
+  "sections": [
+    {
+      "component": "Custom",
+      "props": {
+        "title": "",
+        "content": ""
+      }
+    }
+  ]
+}

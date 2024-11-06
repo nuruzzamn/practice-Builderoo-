@@ -1,0 +1,12 @@
+{
+  "$schema": "https://builderoo.dev/schema/page.json",
+  "layout": {
+    "component": "DefaultLayout"
+  },
+  "dev:data": "data:collections",
+  "sections": [
+    {
+      "component": "CollectionDetail"
+    }
+  ]
+}
